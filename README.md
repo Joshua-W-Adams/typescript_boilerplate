@@ -58,7 +58,7 @@ Note: types/node required otherwise internal node libraries will not be detected
 4. Initialise TypeScript project
 
 ```shell
-tsc init
+tsc --init
 ```
 
 5. Update typescript compilier with outpur directory for JavaScript files
